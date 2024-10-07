@@ -1,0 +1,11 @@
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\WebApplication1
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\WebApplication1.dll
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\WebApplication1.deps.json
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\WebApplication1.runtimeconfig.json
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\WebApplication1.pdb
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Local_Data\FinregERepos\WebApplication1\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
